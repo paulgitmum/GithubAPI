@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .footer-container{
+      background-color: rgb(45, 46, 46);
+      height: 40vh;
+      position: relative;
+  }
+.title{
+    padding-bottom: 20px;
+    font-size: 50px;
+}
